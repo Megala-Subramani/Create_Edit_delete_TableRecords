@@ -1,0 +1,59 @@
+.nonEditable{
+    border:0px !important;
+}
+.editable{
+    border:1px solid #767676
+}
+table{
+    border-collapse: collapse;
+}
+table input[type="button"]{
+    width:50% !important;
+}
+.hideButton{
+    display: none;
+}
+.identityNumber > input{
+    text-align: center;
+}
+.pageHeader{
+    height: 45px;
+    font-size: 24px;
+    font-family: sans-serif;
+    font-weight: bold;
+    line-height: 45px;
+}
+#addNewItem{
+    width: 54%;
+    position: relative;
+    margin-left: 23%;
+}
+#newItemInputSet{
+    line-height: 50px;
+    border: 1px solid black;
+}
+#newItemInputSet input{ 
+    margin-left: 16px;
+}
+#innerDiv{
+    width: 72%;
+}
+#btn_saveItem{
+    float: right;
+    margin-top: 17px;
+    margin-right: 10px;
+    width: 100px;
+}
+#btn_newItem{
+    width: 100px;
+    margin-left: 88%;
+}
+#btn_cancelItem{
+    float: right;
+    margin-top: 17px;
+    margin-right: 10px;
+    width: 100px;
+}
+.hideBtn{
+    display:none;
+}
